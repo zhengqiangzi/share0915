@@ -1,0 +1,15 @@
+{
+	presets:[
+
+	],
+
+	plugins:[
+
+		["transform-test",{
+
+			"title":"*****^^^^^******"
+		}],
+		"transform-es2015-arrow-functions"
+
+	]
+}
